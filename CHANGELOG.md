@@ -1,6 +1,6 @@
 # Change Log
-## [3.11.1-dev-3](https://github.com/IBM/ansible-lifecycle-driver/tree/3.11.1-dev-3) (2024-01-18)
-[Full Changelog](https://github.com/IBM/ansible-lifecycle-driver/compare/3.10.4...3.11.1-dev-3.)
+## [999.9.0](https://github.com/IBM/ansible-lifecycle-driver/tree/999.9.0) (2024-01-18)
+[Full Changelog](https://github.com/IBM/ansible-lifecycle-driver/compare/3.10.4...999.9.0)
 
 **Implemented enhancements:**
 - Fix security vulnerabilities [\#262](https://github.com/IBM/ansible-lifecycle-driver/issues/262)
